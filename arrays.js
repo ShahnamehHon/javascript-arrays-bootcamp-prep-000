@@ -4,5 +4,5 @@ var c = "sup";
 
 function addElementToBeginningOfArray () {
   
-  ruturn []
+  return [c, ...chocolateBars];
 }
